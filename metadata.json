@@ -1,0 +1,6 @@
+{
+  "name": "Movie and Book Soul Reader",
+  "description": "Chat with the living essence and consciousness of your favorite books, movies, and TV shows. Immerse yourself in interactive branching stories, download custom eBooks, and converse with literary and cinematic souls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
